@@ -1,0 +1,169 @@
+{"sequence":"ParaType-ISmartToken ParaVar- ParaType-IBancorConverterExtensions ParaVar- ParaType-uint32 ParaVar- ParaType-IERC20Token ParaVar- ParaType-uint32 ParaVar- ","position":"428"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"433"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"434"}
+{"sequence":"Iftest-begin PREDICATE-!= NORMAL ID- ID- Binary_expr-!=(null,LITERAL) Literal-TYPE Iftest-end ","position":"436"}
+{"sequence":"ID- ID- ID- Literal-TYPE ","position":"437"}
+{"sequence":"","position":"436"}
+{"sequence":"","position":"428"}
+{"sequence":"","position":"493"}
+{"sequence":"ID- ID- ID- ","position":"494"}
+{"sequence":"","position":"493"}
+{"sequence":"","position":"503"}
+{"sequence":"ID- Binary_expr-+(null,LITERAL) Literal-TYPE ","position":"504"}
+{"sequence":"","position":"503"}
+{"sequence":"ParaType-uint16 ParaVar- ","position":"514"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Iftest-end ","position":"515"}
+{"sequence":"","position":"516"}
+{"sequence":"","position":"515"}
+{"sequence":"ID- Binary_expr--(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE ","position":"517"}
+{"sequence":"","position":"514"}
+{"sequence":"ParaType-IBancorConverterExtensions ParaVar- ","position":"525"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"531"}
+{"sequence":"","position":"525"}
+{"sequence":"ParaType-IERC20Token ParaVar- ","position":"539"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"544"}
+{"sequence":"","position":"539"}
+{"sequence":"","position":"550"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"551"}
+{"sequence":"","position":"550"}
+{"sequence":"","position":"559"}
+{"sequence":"ID- ","position":"560"}
+{"sequence":"","position":"559"}
+{"sequence":"ParaType-bool ParaVar- ","position":"570"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) ID- ","position":"571"}
+{"sequence":"","position":"570"}
+{"sequence":"ParaType-uint32 ParaVar- ","position":"580"}
+{"sequence":"ID- ID- ID- ","position":"585"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"586"}
+{"sequence":"","position":"580"}
+{"sequence":"ParaType-uint256 ParaVar- ","position":"594"}
+{"sequence":"ID- ID- ID- Binary_expr-/(null,MEMORY_READ_LOCAL) ID- ","position":"595"}
+{"sequence":"","position":"594"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint32 ParaVar- ParaType-bool ParaVar- ","position":"606"}
+{"sequence":"ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-&&(null,null) ID- ID- ID- Binary_expr-&&(null,null) ID- Binary_expr-+(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-<=(null,MEMORY_READ_LOCAL) ID- ","position":"614"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"616"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"617"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"618"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"619"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"620"}
+{"sequence":"ID- ID- ID- ","position":"621"}
+{"sequence":"Assign_expr-+=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"622"}
+{"sequence":"","position":"606"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint32 ParaVar- ParaType-bool ParaVar- ParaType-uint256 ParaVar- ","position":"634"}
+{"sequence":"ID- ID- ","position":"640"}
+{"sequence":"ID- ID- Binary_expr--(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- Binary_expr-+(null,MEMORY_READ_LOCAL) ID- Binary_expr-<=(null,MEMORY_READ_LOCAL) ID- ","position":"641"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) ID- Binary_expr--(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- Binary_expr-+(null,MEMORY_READ_LOCAL) ID- ","position":"643"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"644"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"645"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"646"}
+{"sequence":"","position":"634"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-bool ParaVar- ","position":"657"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,null) ID- ","position":"662"}
+{"sequence":"","position":"657"}
+{"sequence":"ParaType-IERC20Token ParaVar- ","position":"672"}
+{"sequence":"ID- ID- ","position":"678"}
+{"sequence":"","position":"672"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ","position":"691"}
+{"sequence":"ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"692"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"695"}
+{"sequence":"ID- ID- ID- ","position":"696"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"697"}
+{"sequence":"ID- ID- ID- ","position":"698"}
+{"sequence":"","position":"697"}
+{"sequence":"","position":"695"}
+{"sequence":"NORMAL ID- ID- ID- ","position":"701"}
+{"sequence":"ID- ID- ID- NORMAL ID- NORMAL ID- ID- ID- ","position":"702"}
+{"sequence":"","position":"691"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ","position":"713"}
+{"sequence":"ID- ID- ","position":"720"}
+{"sequence":"ID- ID- ID- ","position":"721"}
+{"sequence":"NORMAL ID- ID- ","position":"723"}
+{"sequence":"NORMAL ID- ID- ","position":"724"}
+{"sequence":"NORMAL NORMAL ID- ID- ID- ID- ID- ID- ID- ID- ","position":"725"}
+{"sequence":"NORMAL ID- ID- ","position":"728"}
+{"sequence":"ID- ID- ID- ","position":"729"}
+{"sequence":"","position":"713"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ","position":"740"}
+{"sequence":"ID- ID- ID- NORMAL ID- ID- ","position":"741"}
+{"sequence":"","position":"740"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"754"}
+{"sequence":"ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"755"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"758"}
+{"sequence":"ID- ID- ID- ID- ","position":"759"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"760"}
+{"sequence":"ID- ID- ID- ID- ","position":"761"}
+{"sequence":"","position":"760"}
+{"sequence":"","position":"758"}
+{"sequence":"NORMAL ID- ID- ID- Literal-TYPE ","position":"764"}
+{"sequence":"ID- ID- ID- ID- ","position":"765"}
+{"sequence":"","position":"754"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"777"}
+{"sequence":"NORMAL ID- ID- ID- ","position":"784"}
+{"sequence":"ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Binary_expr-&&(null,null) ID- Binary_expr->=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"785"}
+{"sequence":"ID- ID- ","position":"788"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end ","position":"789"}
+{"sequence":"ID- PREDICATE-undefined Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"790"}
+{"sequence":"","position":"789"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ID- ","position":"793"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"795"}
+{"sequence":"ID- ID- ID- ID- Literal-TYPE ","position":"797"}
+{"sequence":"","position":"798"}
+{"sequence":"","position":"777"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"810"}
+{"sequence":"ID- ID- Binary_expr-<=(MEMORY_READ_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"817"}
+{"sequence":"NORMAL ID- ID- ID- ","position":"819"}
+{"sequence":"ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Binary_expr-&&(null,null) ID- Binary_expr->=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"820"}
+{"sequence":"NORMAL ID- ID- ","position":"822"}
+{"sequence":"NORMAL ID- ID- ","position":"823"}
+{"sequence":"ID- ID- Binary_expr-<(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-||(null,null) ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-&&(null,null) ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"825"}
+{"sequence":"ID- ID- ","position":"828"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end ","position":"829"}
+{"sequence":"ID- PREDICATE-undefined Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"830"}
+{"sequence":"","position":"829"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"833"}
+{"sequence":"ID- CALL_MIN_GAS ID- ID- ID- ID- ID- ","position":"836"}
+{"sequence":"ID- ID- ID- ID- Literal-TYPE ","position":"838"}
+{"sequence":"","position":"839"}
+{"sequence":"","position":"810"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"852"}
+{"sequence":"ID- Literal-TYPE ","position":"858"}
+{"sequence":"NORMAL ID- ID- ","position":"859"}
+{"sequence":"Iftest-begin ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Iftest-end ","position":"863"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"866"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"867"}
+{"sequence":"NORMAL ID- ID- ID- ID- ","position":"868"}
+{"sequence":"ID- PREDICATE-== NORMAL ID- ID- ID- ID- ID- ID- ","position":"872"}
+{"sequence":"","position":"866"}
+{"sequence":"","position":"863"}
+{"sequence":"CALL_ALL_GAS ID- ID- ID- ID- ID- ID- ID- ID- ID- ID- ","position":"877"}
+{"sequence":"","position":"852"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"881"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"882"}
+{"sequence":"","position":"881"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"894"}
+{"sequence":"ID- ID- ","position":"902"}
+{"sequence":"NORMAL ID- ID- ","position":"903"}
+{"sequence":"NORMAL NORMAL ID- ID- ID- ID- ID- ID- ID- ID- ","position":"904"}
+{"sequence":"NORMAL ID- ID- ","position":"907"}
+{"sequence":"ID- ID- ID- ","position":"908"}
+{"sequence":"","position":"894"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ParaType-bool ParaVar- ","position":"920"}
+{"sequence":"ID- ID- ","position":"921"}
+{"sequence":"NORMAL ID- NORMAL ID- ID- ID- ","position":"926"}
+{"sequence":"NORMAL ID- NORMAL ID- ID- ID- ID- ","position":"927"}
+{"sequence":"NORMAL ID- ID- ","position":"930"}
+{"sequence":"NORMAL ID- ID- ","position":"931"}
+{"sequence":"Iftest-begin ID- Binary_expr-!=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"932"}
+{"sequence":"Iftest-begin ID- Binary_expr->(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Iftest-end ","position":"933"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- Literal-TYPE Binary_expr-**(LITERAL,null) NORMAL ID- ID- Binary_expr--(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"934"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- Literal-TYPE Binary_expr-**(LITERAL,null) NORMAL ID- ID- Binary_expr--(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"936"}
+{"sequence":"","position":"933"}
+{"sequence":"","position":"932"}
+{"sequence":"Iftest-begin ID- Iftest-end ","position":"939"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ID- ID- ID- ","position":"940"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ID- ID- ID- ","position":"942"}
+{"sequence":"","position":"939"}
+{"sequence":"","position":"920"}
+{"sequence":"","position":"949"}
+{"sequence":"ID- ID- ID- ID- Literal-TYPE ","position":"950"}
+{"sequence":"","position":"949"}

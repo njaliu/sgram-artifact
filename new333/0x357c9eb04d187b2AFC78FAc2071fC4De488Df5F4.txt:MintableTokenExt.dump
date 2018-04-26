@@ -1,0 +1,23 @@
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ","position":"1162"}
+{"sequence":"ID- ID- ID- ","position":"1163"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ","position":"1165"}
+{"sequence":"","position":"1162"}
+{"sequence":"ParaType-address ParaVar- ","position":"1168"}
+{"sequence":"ID- ID- ","position":"1169"}
+{"sequence":"","position":"1168"}
+{"sequence":"ParaType-address ParaVar- ","position":"1172"}
+{"sequence":"ID- ID- ","position":"1173"}
+{"sequence":"","position":"1172"}
+{"sequence":"ParaType-address ParaVar- ","position":"1176"}
+{"sequence":"ID- ID- ","position":"1177"}
+{"sequence":"","position":"1176"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- Function_end- ","position":"1180"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"1191"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ","position":"1192"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"1193"}
+{"sequence":"ID- Literal-TYPE ID- ID- ","position":"1197"}
+{"sequence":"","position":"1191"}
+{"sequence":"ParaType-address ParaVar- ParaType-bool ParaVar- ","position":"1203"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1204"}
+{"sequence":"ID- ID- ID- ","position":"1205"}
+{"sequence":"","position":"1203"}

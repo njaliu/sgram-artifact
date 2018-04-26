@@ -1,0 +1,10 @@
+{"sequence":"","position":"502"}
+{"sequence":"ID- ","position":"503"}
+{"sequence":"","position":"502"}
+{"sequence":"ParaType-ERC20Basic ParaVar- ParaType-address ParaVar- ","position":"506"}
+{"sequence":"ID- ID- ID- NORMAL ID- ID- ","position":"507"}
+{"sequence":"","position":"506"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"510"}
+{"sequence":"ID- ID- ","position":"511"}
+{"sequence":"ID- ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"512"}
+{"sequence":"","position":"510"}

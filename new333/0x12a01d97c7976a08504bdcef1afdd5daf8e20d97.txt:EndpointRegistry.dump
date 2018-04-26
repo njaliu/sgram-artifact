@@ -1,0 +1,20 @@
+{"sequence":"ParaType-string ParaVar- ","position":"33"}
+{"sequence":"ID- ID- ID- ","position":"37"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- ID- Iftest-end If-end ","position":"40"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- Literal-TYPE ","position":"45"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"46"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"47"}
+{"sequence":"ID- ID- ID- ID- ","position":"48"}
+{"sequence":"","position":"33"}
+{"sequence":"ParaType-address ParaVar- ","position":"57"}
+{"sequence":"ID- ","position":"59"}
+{"sequence":"","position":"57"}
+{"sequence":"ParaType-string ParaVar- ","position":"68"}
+{"sequence":"ID- ","position":"70"}
+{"sequence":"","position":"68"}
+{"sequence":"ParaType-string ParaVar- ParaType-string ParaVar- ","position":"73"}
+{"sequence":"Iftest-begin PREDICATE-== NORMAL ID- ID- Binary_expr-==(null,null) PREDICATE-== NORMAL ID- ID- Iftest-end ","position":"75"}
+{"sequence":"","position":"76"}
+{"sequence":"","position":"75"}
+{"sequence":"","position":"79"}
+{"sequence":"","position":"73"}

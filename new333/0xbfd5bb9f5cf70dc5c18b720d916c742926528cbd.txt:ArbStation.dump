@@ -1,0 +1,24 @@
+{"sequence":"","position":"37"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ","position":"38"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"39"}
+{"sequence":"","position":"37"}
+{"sequence":"","position":"42"}
+{"sequence":"ID- ID- ID- ","position":"43"}
+{"sequence":"","position":"42"}
+{"sequence":"","position":"46"}
+{"sequence":"CALL_ALL_GAS ID- ID- ID- ID- ID- ","position":"47"}
+{"sequence":"","position":"46"}
+{"sequence":"ParaType-uint ParaVar- ","position":"50"}
+{"sequence":"ID- ID- ID- ","position":"51"}
+{"sequence":"","position":"50"}
+{"sequence":"ParaType-uint ParaVar- ","position":"54"}
+{"sequence":"ID- ID- ID- ","position":"55"}
+{"sequence":"ID- ID- ID- ","position":"56"}
+{"sequence":"","position":"54"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint8 ParaVar- ParaType-bytes32 ParaVar- ","position":"59"}
+{"sequence":"ID- ID- ID- ID- ID- Literal-TYPE ","position":"85"}
+{"sequence":"ID- ID- ID- ID- ID- Literal-TYPE ","position":"86"}
+{"sequence":"","position":"59"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint8 ParaVar- ParaType-bytes32 ParaVar- ParaType-uint ParaVar- ","position":"89"}
+{"sequence":"ID- ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ID- Literal-TYPE Binary_expr-+(LITERAL,null) Literal-TYPE Binary_expr-*(LITERAL,MEMORY_READ_LOCAL) ID- ","position":"90"}
+{"sequence":"","position":"89"}

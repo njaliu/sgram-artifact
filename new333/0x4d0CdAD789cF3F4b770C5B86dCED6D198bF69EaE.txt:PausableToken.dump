@@ -1,0 +1,36 @@
+{"sequence":"ParaType-bool ParaVar- ","position":"399"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"400"}
+{"sequence":"","position":"399"}
+{"sequence":"ParaType-bool ParaVar- ","position":"403"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"404"}
+{"sequence":"","position":"403"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"408"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"409"}
+{"sequence":"","position":"408"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"412"}
+{"sequence":"ID- ID- ID- ID- ","position":"413"}
+{"sequence":"","position":"412"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"416"}
+{"sequence":"ID- ID- ID- ID- ","position":"417"}
+{"sequence":"","position":"416"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"420"}
+{"sequence":"ID- ID- ID- ID- ","position":"421"}
+{"sequence":"","position":"420"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"424"}
+{"sequence":"ID- ID- ID- ID- ","position":"425"}
+{"sequence":"","position":"424"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"429"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"430"}
+{"sequence":"","position":"429"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"433"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"434"}
+{"sequence":"","position":"433"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"437"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ","position":"438"}
+{"sequence":"","position":"437"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-bytes ParaVar- ","position":"441"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"442"}
+{"sequence":"","position":"441"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-bytes ParaVar- ","position":"445"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"446"}
+{"sequence":"","position":"445"}

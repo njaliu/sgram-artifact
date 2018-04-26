@@ -1,0 +1,24 @@
+{"sequence":"ParaType-JouleVault ParaVar- ParaType-bytes32 ParaVar- ParaType-uint ParaVar- ParaType-JouleStorage ParaVar- Function_end- ","position":"1107"}
+{"sequence":"ParaType-JouleProxyAPI ParaVar- ","position":"1111"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1112"}
+{"sequence":"","position":"1111"}
+{"sequence":"ParaType-uint ParaVar- ","position":"1120"}
+{"sequence":"ID- ID- Binary_expr->=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1121"}
+{"sequence":"ID- ID- Binary_expr-<=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1122"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- Binary_expr-/(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1123"}
+{"sequence":"","position":"1120"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ","position":"1126"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ","position":"1127"}
+{"sequence":"","position":"1126"}
+{"sequence":"ParaType-address ParaVar- ParaType-bytes32 ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ParaType-uint ParaVar- ","position":"1130"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ID- ","position":"1131"}
+{"sequence":"","position":"1130"}
+{"sequence":"ParaType-address ParaVar- ","position":"1134"}
+{"sequence":"ID- ID- ","position":"1135"}
+{"sequence":"","position":"1134"}
+{"sequence":"ParaType-address ParaVar- ","position":"1138"}
+{"sequence":"ID- ID- ","position":"1139"}
+{"sequence":"","position":"1138"}
+{"sequence":"ParaType-address ParaVar- ParaType-KeysUtils ParaVar- ","position":"1142"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ID-timestamp() ID- ID- ID- ID- Binary_expr-*(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1143"}
+{"sequence":"","position":"1142"}

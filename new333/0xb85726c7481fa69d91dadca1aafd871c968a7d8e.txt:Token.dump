@@ -1,0 +1,63 @@
+{"sequence":"ParaType-string ParaVar- ","position":"104"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"105"}
+{"sequence":"ID- ID- ","position":"106"}
+{"sequence":"","position":"104"}
+{"sequence":"ParaType-address ParaVar- ","position":"109"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ","position":"110"}
+{"sequence":"","position":"109"}
+{"sequence":"ParaType-address ParaVar- ","position":"115"}
+{"sequence":"ID- ID- ID- ","position":"116"}
+{"sequence":"","position":"115"}
+{"sequence":"","position":"119"}
+{"sequence":"ID- ID- ","position":"120"}
+{"sequence":"","position":"119"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ","position":"123"}
+{"sequence":"ID- ID- ID- ID- ","position":"124"}
+{"sequence":"","position":"123"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"127"}
+{"sequence":"Iftest-begin PREDICATE-undefined CALL_MIN_GAS ID- ID- ID- ID- ID- ID- Iftest-end ","position":"128"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"129"}
+{"sequence":"","position":"130"}
+{"sequence":"","position":"128"}
+{"sequence":"","position":"132"}
+{"sequence":"","position":"127"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"135"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ID- ID- Iftest-end ","position":"136"}
+{"sequence":"NORMAL ID- ID- ID- ID- ","position":"137"}
+{"sequence":"","position":"138"}
+{"sequence":"","position":"136"}
+{"sequence":"","position":"140"}
+{"sequence":"","position":"135"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"143"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ID- Iftest-end ","position":"144"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"145"}
+{"sequence":"","position":"146"}
+{"sequence":"","position":"144"}
+{"sequence":"","position":"148"}
+{"sequence":"","position":"143"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"151"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ID- Iftest-end ","position":"152"}
+{"sequence":"Assign_expr-=(null,null) PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ","position":"153"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"154"}
+{"sequence":"","position":"155"}
+{"sequence":"","position":"152"}
+{"sequence":"","position":"157"}
+{"sequence":"","position":"151"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"160"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ID- Iftest-end ","position":"161"}
+{"sequence":"Assign_expr-=(null,null) PREDICATE-undefined NORMAL ID- ID- ID- ID- ID- ","position":"162"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"163"}
+{"sequence":"","position":"164"}
+{"sequence":"","position":"161"}
+{"sequence":"","position":"166"}
+{"sequence":"","position":"160"}
+{"sequence":"ParaType-uint ParaVar- ","position":"174"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"175"}
+{"sequence":"ID- ID- ID- Literal-TYPE ID- ","position":"176"}
+{"sequence":"","position":"174"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"186"}
+{"sequence":"ID- ID- ID- ID- ","position":"187"}
+{"sequence":"","position":"186"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"190"}
+{"sequence":"ID- ID- ID- ID- ","position":"191"}
+{"sequence":"","position":"190"}

@@ -1,0 +1,40 @@
+{"sequence":"","position":"171"}
+{"sequence":"ParaVar- ","position":"172"}
+{"sequence":"ParaVar- ","position":"173"}
+{"sequence":"ParaVar- ","position":"174"}
+{"sequence":"ParaVar- ","position":"175"}
+{"sequence":"ParaVar- ","position":"176"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"177"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"178"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"179"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"180"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"181"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"182"}
+{"sequence":"","position":"171"}
+{"sequence":"ParaType-address ParaVar- ","position":"193"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"194"}
+{"sequence":"","position":"193"}
+{"sequence":"ParaType-address ParaVar- ","position":"198"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"199"}
+{"sequence":"","position":"198"}
+{"sequence":"ParaType-address ParaVar- ","position":"203"}
+{"sequence":"ID- ","position":"204"}
+{"sequence":"","position":"203"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"208"}
+{"sequence":"Iftest-begin ID- ID- ID- Iftest-end ","position":"209"}
+{"sequence":"","position":"210"}
+{"sequence":"","position":"209"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"212"}
+{"sequence":"","position":"208"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"215"}
+{"sequence":"Iftest-begin ID- ID- ID- Iftest-end ","position":"216"}
+{"sequence":"","position":"217"}
+{"sequence":"","position":"216"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"220"}
+{"sequence":"","position":"215"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"223"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end ","position":"224"}
+{"sequence":"","position":"225"}
+{"sequence":"","position":"224"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"227"}
+{"sequence":"","position":"223"}

@@ -1,0 +1,40 @@
+{"sequence":"ParaType-bytes ParaVar- ","position":"34"}
+{"sequence":"ID- ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE ","position":"35"}
+{"sequence":"","position":"34"}
+{"sequence":"","position":"53"}
+{"sequence":"ParaVar- ","position":"54"}
+{"sequence":"ParaVar- ","position":"55"}
+{"sequence":"ParaVar- ","position":"56"}
+{"sequence":"ParaVar- ","position":"57"}
+{"sequence":"ParaVar- ","position":"58"}
+{"sequence":"ParaVar- ","position":"59"}
+{"sequence":"NORMAL ID- ","position":"61"}
+{"sequence":"","position":"62"}
+{"sequence":"ID- ID- ID- Literal-TYPE ID- ID- ID- ID- ","position":"63"}
+{"sequence":"ID- ID- ID- ID- ID- Binary_expr-==(null,MEMORY_READ_LOCAL) ID- ","position":"66"}
+{"sequence":"","position":"53"}
+{"sequence":"","position":"79"}
+{"sequence":"ParaVar- ","position":"80"}
+{"sequence":"ParaVar- ","position":"81"}
+{"sequence":"ParaVar- ","position":"82"}
+{"sequence":"ParaVar- ","position":"83"}
+{"sequence":"ParaVar- ","position":"84"}
+{"sequence":"ParaVar- ","position":"85"}
+{"sequence":"ParaVar- ","position":"86"}
+{"sequence":"NORMAL ID- ","position":"88"}
+{"sequence":"","position":"89"}
+{"sequence":"ID- ID- ID- Literal-TYPE ID- ID- ID- ID- ID- ","position":"90"}
+{"sequence":"ID- ID- ID- ID- ID- Binary_expr-==(null,MEMORY_READ_LOCAL) ID- ","position":"93"}
+{"sequence":"","position":"79"}
+{"sequence":"","position":"105"}
+{"sequence":"ParaVar- ","position":"106"}
+{"sequence":"ParaVar- ","position":"107"}
+{"sequence":"ParaVar- ","position":"108"}
+{"sequence":"ParaVar- ","position":"109"}
+{"sequence":"ParaVar- ","position":"110"}
+{"sequence":"ParaVar- ","position":"111"}
+{"sequence":"NORMAL ID- ","position":"113"}
+{"sequence":"","position":"114"}
+{"sequence":"ID- ID- ID- Literal-TYPE ID- ID- ID- ID- ","position":"115"}
+{"sequence":"ID- ID- ID- ID- ID- Binary_expr-==(null,MEMORY_READ_LOCAL) ID- ","position":"118"}
+{"sequence":"","position":"105"}

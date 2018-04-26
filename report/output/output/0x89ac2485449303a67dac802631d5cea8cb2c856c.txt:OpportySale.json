@@ -1,0 +1,1 @@
+{"vulnerabilities":{"parity_multisig_bug_2":[],"reentrancy":[],"integer_underflow":[],"money_concurrency":[906,1043],"integer_overflow":[879,879,1066,943,1065,1107,882,877,875,1117],"assertion_failure":[886],"callstack":[],"time_dependency":[844,839,1041,839]},"evm_code_coverage":"37.6"}

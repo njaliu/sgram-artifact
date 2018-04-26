@@ -1,0 +1,14 @@
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ","position":"182"}
+{"sequence":"ID- ID- ","position":"183"}
+{"sequence":"ID- ID- ","position":"184"}
+{"sequence":"","position":"182"}
+{"sequence":"ParaType-SetStepFunctionInterface ParaVar- ","position":"187"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"188"}
+{"sequence":"","position":"187"}
+{"sequence":"ParaType-ERC20 ParaVar- ","position":"191"}
+{"sequence":"ParaVar- ","position":"192"}
+{"sequence":"ParaVar- ","position":"193"}
+{"sequence":"ParaVar- ","position":"194"}
+{"sequence":"ParaVar- ","position":"195"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ID- ","position":"210"}
+{"sequence":"","position":"191"}

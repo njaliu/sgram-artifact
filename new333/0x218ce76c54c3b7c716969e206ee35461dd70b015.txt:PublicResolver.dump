@@ -1,0 +1,34 @@
+{"sequence":"ParaType-AbstractENS ParaVar- ","position":"59"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"60"}
+{"sequence":"","position":"59"}
+{"sequence":"ParaType-bytes4 ParaVar- ","position":"68"}
+{"sequence":"Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-||(null,null) ","position":"69"}
+{"sequence":"Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"70"}
+{"sequence":"","position":"69"}
+{"sequence":"Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"71"}
+{"sequence":"","position":"69"}
+{"sequence":"Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"72"}
+{"sequence":"","position":"68"}
+{"sequence":"ParaType-bytes32 ParaVar- ","position":"80"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ID- ","position":"81"}
+{"sequence":"","position":"80"}
+{"sequence":"ParaType-bytes32 ParaVar- ParaType-address ParaVar- ","position":"90"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"91"}
+{"sequence":"","position":"90"}
+{"sequence":"ParaType-bytes32 ParaVar- ","position":"101"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ID- ","position":"102"}
+{"sequence":"","position":"101"}
+{"sequence":"ParaType-bytes32 ParaVar- ParaType-bytes32 ParaVar- ","position":"113"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"114"}
+{"sequence":"","position":"113"}
+{"sequence":"ParaType-bytes32 ParaVar- ParaType-uint256 ParaVar- ","position":"125"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"133"}
+{"sequence":"","position":"125"}
+{"sequence":"ParaType-bytes32 ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"144"}
+{"sequence":"Iftest-begin ID- Binary_expr--(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Binary_expr-&(null,MEMORY_READ_LOCAL) ID- Binary_expr-!=(null,LITERAL) Literal-TYPE Iftest-end THROW If-end ","position":"146"}
+{"sequence":"ID- ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"148"}
+{"sequence":"","position":"144"}
+{"sequence":"ParaType-bytes32 ParaVar- Function_end- ","position":"157"}
+{"sequence":"ParaType-bytes32 ParaVar- ParaType-bytes32 ParaVar- ParaType-bytes32 ParaVar- ","position":"167"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ","position":"168"}
+{"sequence":"","position":"167"}

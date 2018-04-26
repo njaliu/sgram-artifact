@@ -1,0 +1,31 @@
+{"sequence":"ParaType-uint8 ParaVar- ","position":"16"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"17"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"18"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"19"}
+{"sequence":"","position":"16"}
+{"sequence":"ParaType-address ParaVar- ","position":"24"}
+{"sequence":"Iftest-begin ID- ID- Binary_expr-!=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-||(null,MEMORY_READ_LOCAL) ID- ID- ID- Iftest-end If-end ","position":"25"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"26"}
+{"sequence":"","position":"24"}
+{"sequence":"ParaType-address ParaVar- ","position":"30"}
+{"sequence":"ID- ID- ID- ","position":"31"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end If-end ","position":"32"}
+{"sequence":"Iftest-begin ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- Iftest-end If-end ","position":"35"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"36"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"37"}
+{"sequence":"ID- ID- ","position":"38"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end ","position":"39"}
+{"sequence":"ID- ID- ID- PREDICATE-undefined Assign_expr-+=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"40"}
+{"sequence":"ID- PREDICATE-undefined Assign_expr-+=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"42"}
+{"sequence":"","position":"39"}
+{"sequence":"","position":"30"}
+{"sequence":"ParaType-uint8 ParaVar- ","position":"46"}
+{"sequence":"ID- ID- ID- ","position":"47"}
+{"sequence":"Iftest-begin ID- ID- Binary_expr-||(MEMORY_READ_LOCAL,null) ID- Binary_expr->=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- Iftest-end If-end ","position":"48"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"49"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"50"}
+{"sequence":"ID- ID- Assign_expr-+=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"51"}
+{"sequence":"","position":"46"}
+{"sequence":"","position":"54"}
+{"sequence":"Literal-TYPE ","position":"55"}
+{"sequence":"","position":"54"}

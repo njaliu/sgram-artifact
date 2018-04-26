@@ -1,0 +1,26 @@
+{"sequence":"","position":"158"}
+{"sequence":"ParaVar- ","position":"159"}
+{"sequence":"ParaVar- ","position":"160"}
+{"sequence":"ParaVar- ","position":"161"}
+{"sequence":"ParaVar- ","position":"162"}
+{"sequence":"ParaVar- ","position":"163"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"167"}
+{"sequence":"","position":"158"}
+{"sequence":"ParaType-bytes32 ParaVar- ","position":"174"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"175"}
+{"sequence":"","position":"174"}
+{"sequence":"ParaType-address ParaVar- ","position":"179"}
+{"sequence":"ID- ","position":"180"}
+{"sequence":"","position":"179"}
+{"sequence":"","position":"183"}
+{"sequence":"ID- ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,null) ","position":"184"}
+{"sequence":"ID- ID- Assign_expr-+=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"185"}
+{"sequence":"Assign_expr-+=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"186"}
+{"sequence":"ID- ID- Binary_expr-<=(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"187"}
+{"sequence":"ID- ID- ID- ID- ","position":"188"}
+{"sequence":"ID- NORMAL ID- Literal-TYPE ID- ID- Literal-TYPE ","position":"189"}
+{"sequence":"ID- ID-now() ID- ID- ","position":"190"}
+{"sequence":"","position":"183"}
+{"sequence":"","position":"193"}
+{"sequence":"ID- ","position":"194"}
+{"sequence":"","position":"193"}

@@ -5,7 +5,8 @@ import json
 import kenlm
 import operator
 
-report_dir = '/home/aliu/Research/Projects/sgram-artifact/report/'
+report_dir = '/home/aliu/Research/Projects/sgram-artifact/report/output/output/'
+result_file = '/home/aliu/Research/Projects/sgram-artifact/result/k10-n3'
 
 def predict(dump_file, model):
 	rank = {}
@@ -24,10 +25,12 @@ def predict(dump_file, model):
 		json_file = report_dir + base + '.json'
 		hit = check(json_file, sorted_rank)
                 print 'hit is: ' + str(hit)
-		if hit > 0:
-			print 'hit: ' + str(hit)
-		else:
-			print 'no hit'
+        with open(result_file, 'a') as rf:
+			if hit > 0:
+				print 'hit: ' + str(hit)
+			else:
+				print 'no hit'
+			rf.write(dump_file + ', ' + str(hit))
 
 def check(json_file, rank):
 	count = 0
@@ -58,7 +61,13 @@ def getVulnPos(data):
 
 def main(dump_file):
 	model = kenlm.LanguageModel('/home/aliu/Research/Projects/sgram/model/n3-2018-4-27-new.klm')
-	predict(dump_file, model)
+	for root, dirs, files in os.walk("."):
+		path = root.split(os.sep)
+		print((len(path) - 1) * '---', os.path.basename(root))
+		for file in files:
+			print(len(path) * '---', file)
+			dump_file = root + file
+			predict(dump_file, model)
 
 if __name__ == '__main__':
     main(sys.argv[1])

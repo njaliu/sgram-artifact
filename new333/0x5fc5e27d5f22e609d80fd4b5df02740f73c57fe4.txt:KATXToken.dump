@@ -1,0 +1,27 @@
+{"sequence":"Function_end- ","position":"887"}
+{"sequence":"ParaType-address ParaVar- ","position":"896"}
+{"sequence":"Binary_expr-!=(MEMORY_READ_LOCAL,null) NORMAL ID- Binary_expr-&&(null,null) NORMAL ID- ID- ID- ","position":"897"}
+{"sequence":"","position":"896"}
+{"sequence":"ParaType-address ParaVar- ","position":"907"}
+{"sequence":"ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- Binary_expr-||(null,null) NORMAL ID- ID- ID- ","position":"908"}
+{"sequence":"","position":"907"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"920"}
+{"sequence":"CALL_MIN_GAS ID- ID- ID- ID- ","position":"921"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- Iftest-end ","position":"922"}
+{"sequence":"NORMAL NORMAL ID- ID- ID- ID- ID- ID- ","position":"923"}
+{"sequence":"","position":"922"}
+{"sequence":"","position":"926"}
+{"sequence":"","position":"920"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint ParaVar- ","position":"939"}
+{"sequence":"NORMAL ID- ID- ID- ID- ID- ","position":"940"}
+{"sequence":"Iftest-begin PREDICATE-undefined NORMAL ID- ID- Iftest-end ","position":"941"}
+{"sequence":"NORMAL NORMAL ID- ID- ID- ID- ID- ","position":"942"}
+{"sequence":"","position":"941"}
+{"sequence":"","position":"945"}
+{"sequence":"","position":"939"}
+{"sequence":"ParaType-address ParaVar- ","position":"957"}
+{"sequence":"ID- ID- ID- ","position":"958"}
+{"sequence":"","position":"957"}
+{"sequence":"","position":"965"}
+{"sequence":"ID- ","position":"966"}
+{"sequence":"","position":"965"}

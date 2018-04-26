@@ -1,0 +1,21 @@
+{"sequence":"","position":"31"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ","position":"33"}
+{"sequence":"","position":"31"}
+{"sequence":"ParaType-string ParaVar- ","position":"36"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"38"}
+{"sequence":"","position":"36"}
+{"sequence":"ParaType-string ParaVar- ","position":"42"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"44"}
+{"sequence":"","position":"42"}
+{"sequence":"ParaType-string ParaVar- ","position":"48"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"50"}
+{"sequence":"","position":"48"}
+{"sequence":"ParaType-address ParaVar- ","position":"53"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"55"}
+{"sequence":"","position":"53"}
+{"sequence":"ParaType-string ParaVar- ","position":"60"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"62"}
+{"sequence":"","position":"60"}
+{"sequence":"ParaType-string ParaVar- ","position":"68"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"70"}
+{"sequence":"","position":"68"}

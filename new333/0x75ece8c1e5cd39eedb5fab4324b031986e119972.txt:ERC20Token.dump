@@ -1,0 +1,20 @@
+{"sequence":"","position":"92"}
+{"sequence":"ID- ","position":"94"}
+{"sequence":"","position":"92"}
+{"sequence":"","position":"112"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"114"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"115"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"116"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"117"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"118"}
+{"sequence":"","position":"112"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ParaType-bytes ParaVar- ","position":"122"}
+{"sequence":"ID- ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"123"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"124"}
+{"sequence":"Iftest-begin PREDICATE-! CALL ID- ID- PREDICATE-! NORMAL ID- PREDICATE-! NORMAL ID- PREDICATE-! NORMAL ID- Literal-TYPE ","position":"129"}
+{"sequence":"ID- ID- ID- ","position":"130"}
+{"sequence":"","position":"129"}
+{"sequence":"NORMAL ID- ","position":"131"}
+{"sequence":"","position":"129"}
+{"sequence":"","position":"133"}
+{"sequence":"","position":"122"}

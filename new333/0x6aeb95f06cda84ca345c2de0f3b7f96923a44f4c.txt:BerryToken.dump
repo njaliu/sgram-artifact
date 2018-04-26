@@ -1,0 +1,4 @@
+{"sequence":"","position":"535"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"536"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"537"}
+{"sequence":"","position":"535"}
