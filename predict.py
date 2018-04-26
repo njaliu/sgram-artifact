@@ -23,8 +23,9 @@ def predict(dump_file, model):
 		base = base.replace(':', '_')
 		json_file = report_dir + base + '.json'
 		hit = check(json_file, sorted_rank)
+                print 'hit is: ' + str(hit)
 		if hit > 0:
-			print 'hit: ' + hit
+			print 'hit: ' + str(hit)
 		else:
 			print 'no hit'
 
@@ -33,10 +34,12 @@ def check(json_file, rank):
 	with open(json_file) as f:
 		report = json.load(f)
 		vulns = getVulnPos(report)
+                print vulns
 		for key in rank:
 			keyjson = json.loads(key)
-			pos = (int)keyjson['position']
-			if pos in vulns:
+			pos = keyjson['position']
+                        print 'pos is: ' + pos
+			if int(pos) in vulns:
 				count = count + 1
 	return count
 
