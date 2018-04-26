@@ -19,9 +19,9 @@ def predict(dump_file, model):
 			score = model.score(pyjson['sequence'])
 			rank[line] = score
 			print rank[line]
-		sorted_rank = dict(sorted(rank.items(), key=operator.itemgetter(1), reverse=True)[:K])
+		sorted_rank = dict(sorted(rank.items(), key=operator.itemgetter(1))[:K])
 		base = os.path.basename(dump_file).split('.dump')[0]
-		base = base.replace(':', '_')
+		#base = base.replace(':', '_')
 		json_file = report_dir + base + '.json'
 		hit = check(json_file, sorted_rank)
                 print 'hit is: ' + str(hit)
@@ -30,7 +30,7 @@ def predict(dump_file, model):
 				print 'hit: ' + str(hit)
 			else:
 				print 'no hit'
-			rf.write(dump_file + ', ' + str(hit))
+			rf.write(dump_file + ', ' + str(hit) + '\n')
 
 def check(json_file, rank):
 	count = 0
