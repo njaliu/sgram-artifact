@@ -6,11 +6,20 @@ import kenlm
 import operator
 
 report_dir = '/home/aliu/Research/Projects/sgram-artifact/report/output/output/'
-result_file = '/home/aliu/Research/Projects/sgram-artifact/result/k10-n3'
+result_file = '/home/aliu/Research/Projects/sgram-artifact/result/k100-n3'
 
 def predict(dump_file, model):
 	rank = {}
-	K = 10
+	#K = 10
+        #K = 20
+        #K = 30
+        #K = 40
+        #K = 50
+        #K = 60
+        #K = 70
+        #K = 80
+        #K = 90
+        K = 100
 	with open(dump_file) as f:
 		for line in f:
 			print line
