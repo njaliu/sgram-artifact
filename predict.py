@@ -59,9 +59,9 @@ def getVulnPos(data):
 	out = out + data['vulnerabilities']['time_dependency']
 	return out
 
-def main(dump_file):
+def main(dump_dir):
 	model = kenlm.LanguageModel('/home/aliu/Research/Projects/sgram/model/n3-2018-4-27-new.klm')
-	for root, dirs, files in os.walk("."):
+	for root, dirs, files in os.walk(dump_dir):
 		path = root.split(os.sep)
 		print((len(path) - 1) * '---', os.path.basename(root))
 		for file in files:
