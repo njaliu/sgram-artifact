@@ -19,7 +19,7 @@ def predict(dump_file, model):
 			rank[line] = score
 			print rank[line]
 		sorted_rank = dict(sorted(rank.items(), key=operator.itemgetter(1), reverse=True)[:K])
-		base = os.path.basename(dump_file).split('\.')[0]
+		base = os.path.basename(dump_file).split('.')[0]
 		json_file = report_dir + base + '.json'
 		hit = check(json_file, sorted_rank)
 		if hit > 0:
