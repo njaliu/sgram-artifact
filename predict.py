@@ -17,7 +17,7 @@ def predict(dump_file, model):
 		#sorted_rank = sorted(rank.items(), key=operator.itemgetter(1))
 
 def main(dump_file):
-	model = kenlm.LanguageModel('/home/aliu/Research/Projects/sgram/model/n3-2018-4-27.klm')
+	model = kenlm.LanguageModel('/home/aliu/Research/Projects/sgram/model/n3-2018-4-27-new.klm')
 	predict(dump_file, model)
 
 if __name__ == '__main__':
