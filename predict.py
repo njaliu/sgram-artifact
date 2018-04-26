@@ -34,7 +34,8 @@ def check(json_file, rank):
 		report = json.load(f)
 		vulns = getVulnPos(report)
 		for key in rank:
-			pos = (int)key['position']
+			keyjson = json.loads(key)
+			pos = (int)keyjson['position']
 			if pos in vulns:
 				count = count + 1
 	return count
