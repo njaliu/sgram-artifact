@@ -1,0 +1,30 @@
+{"sequence":"","position":"466"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- NORMAL ID- Literal-TYPE ","position":"471"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,LITERAL) Literal-TYPE ","position":"472"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ","position":"474"}
+{"sequence":"","position":"466"}
+{"sequence":"","position":"479"}
+{"sequence":"","position":"480"}
+{"sequence":"Literal-TYPE Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- Literal-TYPE ","position":"481"}
+{"sequence":"Literal-TYPE Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- Literal-TYPE ","position":"482"}
+{"sequence":"","position":"483"}
+{"sequence":"","position":"479"}
+{"sequence":"ParaType-address ParaVar- Function_end- ","position":"489"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"494"}
+{"sequence":"ID- ID- ID- ID- ID- Literal-TYPE ","position":"500"}
+{"sequence":"","position":"494"}
+{"sequence":"ParaType-address ParaVar- ","position":"504"}
+{"sequence":"ID- ID- ID- NORMAL ID- ID- ","position":"510"}
+{"sequence":"","position":"504"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ","position":"515"}
+{"sequence":"ID- ","position":"516"}
+{"sequence":"","position":"515"}
+{"sequence":"ParaType-address ParaVar- ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"520"}
+{"sequence":"ID- ","position":"521"}
+{"sequence":"","position":"520"}
+{"sequence":"ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"525"}
+{"sequence":"ID- ","position":"526"}
+{"sequence":"","position":"525"}
+{"sequence":"","position":"529"}
+{"sequence":"ID- ID- ","position":"530"}
+{"sequence":"","position":"529"}

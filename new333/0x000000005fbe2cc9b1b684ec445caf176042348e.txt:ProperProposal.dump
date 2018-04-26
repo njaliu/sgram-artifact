@@ -1,0 +1,39 @@
+{"sequence":"ParaType-address ParaVar- ","position":"161"}
+{"sequence":"ID- ID- ID- ","position":"164"}
+{"sequence":"","position":"161"}
+{"sequence":"","position":"167"}
+{"sequence":"ID- ","position":"168"}
+{"sequence":"","position":"167"}
+{"sequence":"ParaType-uint256 ParaVar- ","position":"170"}
+{"sequence":"ID- ID- ","position":"173"}
+{"sequence":"","position":"170"}
+{"sequence":"ParaType-uint256 ParaVar- ","position":"176"}
+{"sequence":"ID- ID- ","position":"179"}
+{"sequence":"","position":"176"}
+{"sequence":"ParaType-uint256 ParaVar- ","position":"182"}
+{"sequence":"ID- ID- ","position":"185"}
+{"sequence":"","position":"182"}
+{"sequence":"","position":"188"}
+{"sequence":"Literal-TYPE ID- ","position":"191"}
+{"sequence":"","position":"188"}
+{"sequence":"","position":"194"}
+{"sequence":"Literal-TYPE ID- ","position":"197"}
+{"sequence":"","position":"194"}
+{"sequence":"ParaType-uint256 ParaVar- ","position":"200"}
+{"sequence":"ID- ID- ID- ","position":"202"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"203"}
+{"sequence":"","position":"200"}
+{"sequence":"ParaType-uint8 ParaVar- ParaType-bytes ParaVar- ","position":"212"}
+{"sequence":"ID- Literal-TYPE ID- ","position":"215"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"216"}
+{"sequence":"ID- ID- ","position":"217"}
+{"sequence":"ID- ID- NORMAL ID- ID- ID- ID- Literal-TYPE ","position":"218"}
+{"sequence":"ID- ID- ","position":"219"}
+{"sequence":"ID- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"221"}
+{"sequence":"","position":"222"}
+{"sequence":"","position":"212"}
+{"sequence":"ParaType-address ParaVar- ParaType-bytes ParaVar- ","position":"225"}
+{"sequence":"ID- ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE ","position":"227"}
+{"sequence":"ID- ID- NORMAL ID- ID- Literal-TYPE Literal-TYPE ","position":"228"}
+{"sequence":"ID- ID- ","position":"229"}
+{"sequence":"","position":"225"}

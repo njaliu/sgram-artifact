@@ -1,0 +1,55 @@
+{"sequence":"ParaType-address ParaVar- ","position":"988"}
+{"sequence":"NORMAL ID- ID- ","position":"989"}
+{"sequence":"ID- NORMAL ID- ID- ","position":"990"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"991"}
+{"sequence":"","position":"988"}
+{"sequence":"ParaType-address ParaVar- ","position":"994"}
+{"sequence":"NORMAL ID- ID- ","position":"995"}
+{"sequence":"ID- NORMAL ID- ID- ","position":"996"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"997"}
+{"sequence":"","position":"994"}
+{"sequence":"","position":"1000"}
+{"sequence":"ParaVar- ","position":"1001"}
+{"sequence":"ParaVar- ","position":"1002"}
+{"sequence":"ParaVar- ","position":"1003"}
+{"sequence":"ParaVar- ","position":"1004"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ","position":"1009"}
+{"sequence":"ID- NORMAL ID- ID- ","position":"1010"}
+{"sequence":"ID- ID- ID- ","position":"1011"}
+{"sequence":"ID- ID- ","position":"1012"}
+{"sequence":"","position":"1013"}
+{"sequence":"","position":"1014"}
+{"sequence":"","position":"1015"}
+{"sequence":"","position":"1016"}
+{"sequence":"ID- ","position":"1017"}
+{"sequence":"","position":"1000"}
+{"sequence":"","position":"1021"}
+{"sequence":"ParaVar- ","position":"1022"}
+{"sequence":"ParaVar- ","position":"1023"}
+{"sequence":"ParaVar- ","position":"1024"}
+{"sequence":"ParaVar- ","position":"1025"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ","position":"1030"}
+{"sequence":"ID- NORMAL ID- ID- ","position":"1031"}
+{"sequence":"ID- ID- ID- ","position":"1032"}
+{"sequence":"ID- ID- ","position":"1033"}
+{"sequence":"","position":"1034"}
+{"sequence":"","position":"1035"}
+{"sequence":"","position":"1036"}
+{"sequence":"","position":"1037"}
+{"sequence":"ID- ","position":"1038"}
+{"sequence":"","position":"1021"}
+{"sequence":"","position":"1042"}
+{"sequence":"ParaVar- ","position":"1043"}
+{"sequence":"ParaVar- ","position":"1044"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ","position":"1050"}
+{"sequence":"ID- NORMAL ID- ID- ","position":"1051"}
+{"sequence":"ID- NORMAL ID- ID- ID- ","position":"1052"}
+{"sequence":"NORMAL ID- ID- ID- ","position":"1053"}
+{"sequence":"ID- ID- ID- Binary_expr->=(MEMORY_READ_LOCAL,null) ID- Binary_expr-+(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"1054"}
+{"sequence":"CALL_ALL_GAS ID- ID- ID- ID- ID- Binary_expr--(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"1055"}
+{"sequence":"ID- NORMAL ID- ID- NORMAL ID- ID- ","position":"1056"}
+{"sequence":"","position":"1042"}
+{"sequence":"","position":"1059"}
+{"sequence":"ID- ID- ","position":"1060"}
+{"sequence":"ID- ID- ","position":"1061"}
+{"sequence":"","position":"1059"}

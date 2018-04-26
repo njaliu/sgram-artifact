@@ -1,0 +1,24 @@
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ","position":"356"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"357"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ID- ","position":"358"}
+{"sequence":"","position":"356"}
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ","position":"361"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"362"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ","position":"363"}
+{"sequence":"","position":"361"}
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ","position":"366"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"367"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ID- ","position":"368"}
+{"sequence":"","position":"366"}
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ","position":"371"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"372"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ID- ","position":"373"}
+{"sequence":"","position":"371"}
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ParaType-TokenInterface ParaVar- ","position":"376"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"377"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ","position":"378"}
+{"sequence":"","position":"376"}
+{"sequence":"ParaType-DSProxyFactory ParaVar- ParaType-OtcInterface ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ParaType-TokenInterface ParaVar- ParaType-uint ParaVar- ","position":"381"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ","position":"382"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,null) NORMAL ID- ID- ID- ID- ID- ID- ","position":"383"}
+{"sequence":"","position":"381"}

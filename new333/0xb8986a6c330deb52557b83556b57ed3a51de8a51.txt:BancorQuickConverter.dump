@@ -1,0 +1,35 @@
+{"sequence":"Function_end- ","position":"457"}
+{"sequence":"ParaType-IEtherToken ParaVar- ParaType-bool ParaVar- ","position":"472"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"478"}
+{"sequence":"","position":"472"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ParaType-address ParaVar- ","position":"493"}
+{"sequence":"ID- Literal-TYPE ","position":"500"}
+{"sequence":"ID- ID- ID- Binary_expr-==(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Binary_expr-||(null,null) ID- Binary_expr-==(MEMORY_READ_LOCAL,MEMORY_READ_LOCAL) ID- ID- Binary_expr-&&(null,MEMORY_READ_LOCAL) ID- ID- ","position":"501"}
+{"sequence":"ID- ID- ","position":"506"}
+{"sequence":"Iftest-begin ID- ID- Binary_expr->(MEMORY_READ_LOCAL,LITERAL) Literal-TYPE Iftest-end ","position":"510"}
+{"sequence":"CALL_ALL_GAS PREDICATE-> CALL_ALL_GAS PREDICATE-> NORMAL ID- ID- ID- ID- ID- ID- ","position":"511"}
+{"sequence":"","position":"510"}
+{"sequence":"Iftest-begin ID- ID- Iftest-end ","position":"531"}
+{"sequence":"NORMAL NORMAL ID- ID- ID- ID- ID- ","position":"532"}
+{"sequence":"ID- PREDICATE-undefined CALL_MIN_GAS ID- ID- ID- ID- ","position":"534"}
+{"sequence":"","position":"531"}
+{"sequence":"","position":"536"}
+{"sequence":"","position":"493"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ParaType-address ParaVar- ","position":"551"}
+{"sequence":"ID- Literal-TYPE ","position":"555"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ID- ","position":"556"}
+{"sequence":"ID- ID- ID- ID- ID- ","position":"557"}
+{"sequence":"","position":"551"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"571"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ","position":"572"}
+{"sequence":"","position":"571"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-uint256 ParaVar- ParaType-uint256 ParaVar- ","position":"586"}
+{"sequence":"ID- ID- ID- ID- ID- ID- ","position":"587"}
+{"sequence":"","position":"586"}
+{"sequence":"ParaType-IERC20Token ParaVar- ParaType-address ParaVar- ParaType-uint256 ParaVar- ","position":"597"}
+{"sequence":"Iftest-begin PREDICATE->= NORMAL ID- ID- ID- Binary_expr->=(null,MEMORY_READ_LOCAL) ID- Iftest-end If-end ","position":"599"}
+{"sequence":"Iftest-begin PREDICATE-!= NORMAL ID- ID- ID- Binary_expr-!=(null,LITERAL) Literal-TYPE Iftest-end ","position":"603"}
+{"sequence":"ID- PREDICATE-!= NORMAL ID- ID- ID- Literal-TYPE ","position":"604"}
+{"sequence":"","position":"603"}
+{"sequence":"ID- NORMAL ID- ID- ID- ID- ","position":"607"}
+{"sequence":"","position":"597"}
