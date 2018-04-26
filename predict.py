@@ -1,6 +1,6 @@
 import sys
 import json
-import numpy as np
+#import numpy as np
 import kenlm
 
 def predict(dump_file, model):
