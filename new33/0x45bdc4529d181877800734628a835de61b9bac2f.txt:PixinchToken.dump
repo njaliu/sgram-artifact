@@ -1,0 +1,4 @@
+{"sequence":"Functoin_begin- ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ","position":"550,551,"}
+{"sequence":"ID- Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ","position":"551,"}
+{"sequence":"Assign_expr-=(MEMORY_WRITE_LOCAL,MEMORY_READ_LOCAL) ID- ID- ","position":"551,"}
+{"sequence":"ID- ID- Function_end- ","position":"551,550,"}
