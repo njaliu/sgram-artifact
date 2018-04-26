@@ -2,6 +2,7 @@ import sys
 import json
 #import numpy as np
 import kenlm
+import operator
 
 def predict(dump_file, model):
 	rank = {}
@@ -13,6 +14,7 @@ def predict(dump_file, model):
 			score = model.score(pyjson['sequence'])
 			rank[line] = score
 			print rank[line]
+		#sorted_rank = sorted(rank.items(), key=operator.itemgetter(1))
 
 def main(dump_file):
 	model = kenlm.LanguageModel('/home/aliu/Research/Projects/sgram/model/n3-2018-4-27.klm')
